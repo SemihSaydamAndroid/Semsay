@@ -853,3 +853,17 @@
 28-03-2020 20:25:19.756 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ara butonuna t\304\261klan\304\261r" parameterizedStepValue:"Ara butonuna t\304\261klan\304\261r" > > 
 28-03-2020 20:25:20.129 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" \304\260lk \303\266nce web sitesine gidiyorum. Ve arama alan\304\261na <key> yaz\304\261yorum. Ard\304\261ndan arama butonuna t\304\261kl\304\261yorum." > 
 28-03-2020 20:25:20.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260lk \303\266nce web sitesine gidiyorum. Ve arama alan\304\261na {} yaz\304\261yorum. Ard\304\261ndan arama butonuna t\304\261kl\304\261yorum." parameterizedStepValue:"\304\260lk \303\266nce web sitesine gidiyorum. Ve arama alan\304\261na <key> yaz\304\261yorum. Ard\304\261ndan arama butonuna t\304\261kl\304\261yorum." parameters:"key" > > 
+02-04-2020 23:40:26.795 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+02-04-2020 23:40:26.795 [Gauge] [DEBUG] Adding concepts from /Users/Mac/Desktop/testForMedium/testForMedium/SemSay/specs/myConcept.cpt
+02-04-2020 23:40:26.798 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-04-2020 23:40:26.798 [Gauge] [DEBUG] Adding specs from /Users/Mac/Desktop/testForMedium/testForMedium/SemSay/specs/example.spec
+02-04-2020 23:40:26.798 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-04-2020 23:40:26.798 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52186
+02-04-2020 23:40:26.813 [Gauge] [INFO] Watching directory: /Users/Mac/Desktop/testForMedium/testForMedium/SemSay/specs
+02-04-2020 23:40:26.813 [Gauge] [DEBUG] Found 2 files
+02-04-2020 23:41:01.824 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"HepsiBurada sitesine gidilir." > 
+02-04-2020 23:41:01.824 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"HepsiBurada sitesine gidilir." parameterizedStepValue:"HepsiBurada sitesine gidilir." > > 
+02-04-2020 23:41:01.978 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama k\304\261sm\304\261na <key> yaz\304\261l\304\261r. " > 
+02-04-2020 23:41:01.979 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama k\304\261sm\304\261na {} yaz\304\261l\304\261r." parameterizedStepValue:"Arama k\304\261sm\304\261na <key> yaz\304\261l\304\261r." parameters:"key" > > 
+02-04-2020 23:41:02.011 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ara butonuna t\304\261klan\304\261r" > 
+02-04-2020 23:41:02.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ara butonuna t\304\261klan\304\261r" parameterizedStepValue:"Ara butonuna t\304\261klan\304\261r" > > 

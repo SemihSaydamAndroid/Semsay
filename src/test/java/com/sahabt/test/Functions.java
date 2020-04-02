@@ -21,7 +21,7 @@ public class Functions {
     @Step("Arama kısmına <key> yazılır. ")
     public void searchArea(String key) throws InterruptedException {
         webDriver.findElement(By.id("productSearch")).sendKeys(key);
-    }
+    }//
 
     @Step("Ara butonuna tıklanır")
     public void clickButton() throws InterruptedException {

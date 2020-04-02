@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e405c75-d105-45d3-86c8-5e27dd22f887" name="Default Changelist" comment="" />
+    <list default="true" id="3e405c75-d105-45d3-86c8-5e27dd22f887" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sahabt/test/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sahabt/test/Functions.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,9 @@
         <option value="Concept" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -35,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -144,10 +153,10 @@
     </state>
     <state x="383" y="97" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1585384757363" />
     <state x="383" y="113" key="SettingsEditor/0.23.1680.971@0.23.1680.971" timestamp="1585342374938" />
-    <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1584960830114">
+    <state x="517" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1585860046671">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1584960830114" />
+    <state x="517" y="353" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585860046671" />
     <state x="217" y="222" key="new project wizard" timestamp="1584961462053">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
