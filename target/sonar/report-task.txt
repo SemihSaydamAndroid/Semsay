@@ -1,0 +1,6 @@
+projectKey=com.sahabt.test:SemSay
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=com.sahabt.test%3ASemSay
+ceTaskId=AXE8h6bL-Oc9izTHscpH
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXE8h6bL-Oc9izTHscpH
